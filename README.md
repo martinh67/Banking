@@ -1,5 +1,6 @@
 # Banking
-My fourth assignment in Java:
+
+My fourth assignment in Java completed on **11/04/2021**:
 
 Develop a class called BankAccount that stores a name, account number and balance. The constructor for the class must allow the name and account number to be specified, and set the initial balance to 0. The public interface for the class must include methods to perform the following tasks:
 
